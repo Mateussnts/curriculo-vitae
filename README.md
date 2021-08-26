@@ -20,7 +20,7 @@ Campina Grande, Paraíba - Brasil | +55 (83) 9 8761 - 5397 | matthewsantosfb@gma
 
 - Graduando em Ciência da Computação | UFCG - Universidade Federal de Campina Grande ------ 2019 - 2023
 
-### Conhecimentos
+### Experiência com
 
 - Desenvolvimento JAVA / Spring Boot
 - Unity Game Engine / C#
